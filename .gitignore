@@ -1,2 +1,3 @@
 generator/static/generator/25231.png
 password_generator/__pycache__/settings.cpython-38.pyc
+password_generator/settings.py
